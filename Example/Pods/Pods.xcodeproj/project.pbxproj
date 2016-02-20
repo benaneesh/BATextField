@@ -74,7 +74,6 @@
 		9AFB25D3C2E4B568E3937E8E8FDC16A0 /* Nimble-Snapshots-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 70D707086D44E773A37529EEF12443BD /* Nimble-Snapshots-dummy.m */; };
 		9BD99F97E6F2B3811B56343F3505577C /* World+DSL.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCDDE1B04A94712F4D2883C80EE62D96 /* World+DSL.swift */; };
 		9E7786C034F0E0A6B5F0A0E6BE7D7E4A /* BeEmpty.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2764775E2D6E934DD52F0446CA03DF /* BeEmpty.swift */; };
-		A51B472650EB890A614FF6CEB4AA67C9 /* BATextField-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB6B2AB2295F7150B835C3332988745B /* BATextField-dummy.m */; };
 		A80769C99C01B5415FB8EA544903CE1E /* World.h in Headers */ = {isa = PBXBuildFile; fileRef = 6DEB112A26C5C33C8B8F619999E196CF /* World.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		AA8501741ABB8D75C6C47DE086BACD37 /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A5998B34EE4429FE9C07DFC94F0ABB4 /* FBSnapshotTestController.m */; };
 		AC035703A5A6D4B4A99CF3A3C25A9EC4 /* Quick.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C36DB6F05615EC71278526272A72BAD /* Quick.framework */; };
@@ -86,11 +85,11 @@
 		BAB03677AA4F12424494BEAF80671E82 /* Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C61FB5D5A77F0F466C68BEF9983217F /* Example.swift */; };
 		BB4F35062294C1A461DA3CEF6306A1DB /* HaveCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8D4AFE9465C639DF4E67D1EF16C7D55 /* HaveCount.swift */; };
 		BCB53F24DCADF12601B8BA90AE3190AE /* BeLessThan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9500663E16F1B37B02D2F844A81685E0 /* BeLessThan.swift */; };
-		C05AB232599B871BB81AFC012849AC89 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9C2A8E0E01F17D1AFB5FD077DAECF94 /* ReplaceMe.swift */; };
 		C150157922BAEB1F93635508FB59E618 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E6F567A0F84D52EF356BEDCB9F4C9AE7 /* Foundation.framework */; };
 		C322EEEEAE1C91BAF10A82B6FB89BCE5 /* Closures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C4030C33005C7A4BF69E989BB2F4A8 /* Closures.swift */; };
 		C63AB521EA514A811A167E507C0CF9AD /* Expression.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6AA52B39A5AD52E8313E98B6A7A797F /* Expression.swift */; };
 		C642D85B9060803F614B5EC03381877B /* BATextField.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 98ED23AC9C4496AFD632E9C632479E31 /* BATextField.bundle */; };
+		C77C326BB0B3F31BF0D40E2611ECC46F /* BATextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8387BC8AFBA20B550BA89B1771D2AA /* BATextField.swift */; };
 		C9AC658F3FCB67B50E96313C2687B33D /* MatcherProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F0990E92CE6C898CE1BE2E493E8988F /* MatcherProtocols.swift */; };
 		CAAED5FB81DB035A9EC080917C783FA6 /* AdapterProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0411D20370700F56223758955E1BDD0B /* AdapterProtocols.swift */; };
 		CC2BD0A04199B280AD93F459968CAFC2 /* FBSnapshotTestCase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C21D19ECC22ADCD2115C888EE056B6DA /* FBSnapshotTestCase-dummy.m */; };
@@ -114,6 +113,7 @@
 		EE75BFF7CEB96127A821936D107A0183 /* QCKDSL.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F0CE398ED47A90A49FD1D48ED4788C3 /* QCKDSL.m */; };
 		F10FD3129985704FA1610F84FB98EDF5 /* Stringers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CF27DB4E86CF523DBB7718DD1F8A5D /* Stringers.swift */; };
 		F1D4A8A1FC68EFA7F45945908D70A352 /* BeNil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D7137A6D7EFBB6E057D6D4955B5B90 /* BeNil.swift */; };
+		F61DD9FE834EE62D3D55A90CD71E1E87 /* BATextField-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CB6B2AB2295F7150B835C3332988745B /* BATextField-dummy.m */; };
 		F8244422337BCD152CEB1F1B35CF6FF1 /* Filter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43446494C68555558AD6AE7D61940B4A /* Filter.swift */; };
 		F9CA8FD1B5FDCE2D5A372B9222AA7472 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E6F567A0F84D52EF356BEDCB9F4C9AE7 /* Foundation.framework */; };
 		FB1347627E64CA7E98C19DC985E13D95 /* Equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200A0C67CCC284B4A2453C8A749B2FCE /* Equal.swift */; };
@@ -290,7 +290,6 @@
 		A14E97EFA39EE5B8E0791218121044BD /* FailureMessage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FailureMessage.swift; path = Nimble/FailureMessage.swift; sourceTree = "<group>"; };
 		A343D0FB1CBBEF37989DB59EE305AE45 /* Pods-BATextField_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BATextField_Example-frameworks.sh"; sourceTree = "<group>"; };
 		A3704FEAA211CAE9FAB99E2A8E1E8515 /* BATextField-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BATextField-prefix.pch"; sourceTree = "<group>"; };
-		A9C2A8E0E01F17D1AFB5FD077DAECF94 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 		AA329B2CFA87E526DA6452FDD6BB26BC /* Poll.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Poll.swift; path = Nimble/Utils/Poll.swift; sourceTree = "<group>"; };
 		ACB4C9E009BF21741AB0A3E52D7E8655 /* SwiftSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftSupport.swift; path = FBSnapshotTestCase/SwiftSupport.swift; sourceTree = "<group>"; };
 		AFACA8F6842A272EFC1BF8486CCCC8AD /* Pods-BATextField_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BATextField_Example-dummy.m"; sourceTree = "<group>"; };
@@ -325,6 +324,7 @@
 		D1A00DC0F3A2A8FF6BE4622E7146B16F /* Pods_BATextField_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BATextField_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D678E63C357CFBA1B94FB88A80FD2E1D /* NSString+QCKSelectorName.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+QCKSelectorName.m"; path = "Quick/NSString+QCKSelectorName.m"; sourceTree = "<group>"; };
 		DA518914FF93256FE632E0DE280C318A /* Nimble.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Nimble.xcconfig; sourceTree = "<group>"; };
+		DB8387BC8AFBA20B550BA89B1771D2AA /* BATextField.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BATextField.swift; sourceTree = "<group>"; };
 		DCDDE1B04A94712F4D2883C80EE62D96 /* World+DSL.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "World+DSL.swift"; path = "Quick/DSL/World+DSL.swift"; sourceTree = "<group>"; };
 		DE002C91FBB91E22ACE186DB505955BE /* FBSnapshotTestCase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FBSnapshotTestCase.h; path = FBSnapshotTestCase/FBSnapshotTestCase.h; sourceTree = "<group>"; };
 		E0B93A5C0A8B2F79C7D981CE5C110488 /* BATextField.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = BATextField.modulemap; sourceTree = "<group>"; };
@@ -423,7 +423,7 @@
 		09089648FA1C5D66CAA8C893217572A0 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				F3E0B07308AB1F66C83E3F9E1D30DFEB /* Classes */,
+				E899E93FC5A4B01020A53297C4819D15 /* Classes */,
 			);
 			path = Pod;
 			sourceTree = "<group>";
@@ -750,10 +750,10 @@
 			path = Nimble;
 			sourceTree = "<group>";
 		};
-		F3E0B07308AB1F66C83E3F9E1D30DFEB /* Classes */ = {
+		E899E93FC5A4B01020A53297C4819D15 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				A9C2A8E0E01F17D1AFB5FD077DAECF94 /* ReplaceMe.swift */,
+				DB8387BC8AFBA20B550BA89B1771D2AA /* BATextField.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -859,7 +859,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C6AA351BF625198A79483A29AB969B72 /* Build configuration list for PBXNativeTarget "BATextField" */;
 			buildPhases = (
-				5FEC947CF81ECB2B5F41D5FEC87BE880 /* Sources */,
+				4C1C5897EA19163BCAB7245A71FC5FC2 /* Sources */,
 				9DDC0C41FAE145F6097CF678A8BB2EA1 /* Frameworks */,
 				75699105FCA86BC9B4C1B7B19935A161 /* Resources */,
 				04B71CF189B971649097A655FB130FF7 /* Headers */,
@@ -1049,6 +1049,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		4C1C5897EA19163BCAB7245A71FC5FC2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F61DD9FE834EE62D3D55A90CD71E1E87 /* BATextField-dummy.m in Sources */,
+				C77C326BB0B3F31BF0D40E2611ECC46F /* BATextField.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		4FDB58C002A971A1281DFF643BFFECEB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1062,15 +1071,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				20227E57BDE76596D1CA353B3F551DFE /* Pods-BATextField_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		5FEC947CF81ECB2B5F41D5FEC87BE880 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A51B472650EB890A614FF6CEB4AA67C9 /* BATextField-dummy.m in Sources */,
-				C05AB232599B871BB81AFC012849AC89 /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
