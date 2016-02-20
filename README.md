@@ -51,6 +51,9 @@ textField.aligment = .Left
 view.addSubview(textField)
 ```
 
+## TODO
+ * Tests
+ * More properties
 
 ## Author
 
